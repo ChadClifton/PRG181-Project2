@@ -1,0 +1,16 @@
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2\Project2\bin\Debug\Project2.exe.config
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2\Project2\bin\Debug\Project2.exe
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2\Project2\bin\Debug\Project2.pdb
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2\Project2\obj\Debug\Project2.csproj.SuggestedBindingRedirects.cache
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2\Project2\obj\Debug\Project2.exe
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2\Project2\obj\Debug\Project2.pdb
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2.1\Project2\bin\Debug\Project2.exe.config
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2.1\Project2\bin\Debug\Project2.exe
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2.1\Project2\bin\Debug\Project2.pdb
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2.1\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2.1\Project2\obj\Debug\Project2.csproj.SuggestedBindingRedirects.cache
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2.1\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2.1\Project2\obj\Debug\Project2.exe
+E:\Uni\Programming 182\Assignemnts\Project 2\Project2.1\Project2\obj\Debug\Project2.pdb
